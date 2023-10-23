@@ -1,0 +1,21 @@
+[
+    {
+        "interests": {
+            "mathematics": 1,  
+            "teamwork": 4,  
+            "creative_activities": 5,  
+            "understanding_human_behavior": 3  
+        },
+        "strengths": {
+            "rate_strengths": 3,  
+            "handle_challenges": 4,  
+            "rate_accomplishment": 4  
+        },
+        "values": {
+            "motivation": 4,  
+            "work_life_balance": 5,
+            "work_values": 5,  
+            "financial_stability": 4
+        }
+    }
+]
