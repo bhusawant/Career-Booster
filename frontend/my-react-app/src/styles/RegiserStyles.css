@@ -1,0 +1,38 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .register-form {
+    border: 1px solid gray;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: lightcyan;
+    color: orange;
+    width: 285px;
+  }
+
+  .btn.btn-primary{
+    padding: 8px;
+      cursor: pointer;
+      background: white;
+      border: transparent;
+      border-radius: 8px;
+      padding: 0.375rem 0.75rem;
+      text-transform: capitalize;
+      margin-top: 8px;
+  }
+
+  .btn.btn-primary:hover{
+    background-color: grey;
+    color: lightyellow;
+  }
+
+  #b1{
+    color: black;
+  }
+  #b2{
+    color: black;
+  }
